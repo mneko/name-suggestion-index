@@ -273,6 +273,22 @@
       "identities": {"website": "https://www.markgrafen.com/"},
       "label": "Markgrafen Getränkemarkt"
     },
+    "Q100406310": {
+      "description": "German fast food chain serving asian food",
+      "identities": {
+        "facebook": "asiahung.Restaurants",
+        "website": "https://www.asiahung.de/"
+      },
+      "label": "Asiahung",
+      "logos": {
+        "facebook": "https://graph.facebook.com/asiahung.Restaurants/picture?type=large"
+      }
+    },
+    "Q100407277": {
+      "description": "German retai chain selling newspapers and books at airports and train stations",
+      "identities": {"website": "https://pressbooks.buchhandlung.de/shop/"},
+      "label": "Press & Books"
+    },
     "Q1007312": {
       "description": "fast food chain located in Ireland",
       "identities": {"website": "http://www.eddierockets.ie"},
@@ -6452,6 +6468,7 @@
       }
     },
     "Q11906879": {
+      "description": "Mutual collaborator with Social Security number 151",
       "identities": {
         "facebook": "Asepeyo",
         "instagram": "asepeyo",
@@ -6461,7 +6478,6 @@
       },
       "label": "Asepeyo",
       "logos": {
-        "facebook": "https://graph.facebook.com/Asepeyo/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1269884238041624577/q2GN5ql-_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo%20Asepeyo.jpg&width=100"
       }
@@ -8870,6 +8886,13 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo%20of%20Freightliner%20Trucks.png&width=100"
       }
     },
+    "Q1421107": {
+      "identities": {"website": "http://www.reisebank.de/"},
+      "label": "Reisebank",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FReiseBank-Logo.svg&width=100"
+      }
+    },
     "Q1421630": {
       "description": "Swedish bank",
       "identities": {
@@ -8882,6 +8905,19 @@
         "facebook": "https://graph.facebook.com/Handelsbanken/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/719419869993631744/ru3Tk58c_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FHandelsbanken.svg&width=100"
+      }
+    },
+    "Q1422481": {
+      "description": "company",
+      "identities": {
+        "facebook": "Fjallraven",
+        "instagram": "fjallravenofficial",
+        "website": "http://www.fjallraven.com/"
+      },
+      "label": "Fjällräven",
+      "logos": {
+        "facebook": "https://graph.facebook.com/Fjallraven/picture?type=large",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FFj%C3%A4llr%C3%A4ven%20K%C3%A5nken%20backpacks.jpg&width=100"
       }
     },
     "Q1423218": {
@@ -9347,7 +9383,7 @@
       }
     },
     "Q1476162": {
-      "description": "Italian banking Group",
+      "description": "Italian banking",
       "identities": {
         "facebook": "UBIBanca",
         "instagram": "ubibanca",
@@ -9699,7 +9735,6 @@
       },
       "label": "Safeway",
       "logos": {
-        "facebook": "https://graph.facebook.com/Safeway/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1224432805343453185/9RiWXbgQ_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FSafeway%20logo.svg&width=100"
       }
@@ -10630,7 +10665,6 @@
       },
       "label": "Deutsche Post AG",
       "logos": {
-        "facebook": "https://graph.facebook.com/deutschepost/picture?type=large",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo%20Deutsche%20Post%20DHL.svg&width=100"
       }
     },
@@ -10907,7 +10941,6 @@
       },
       "label": "Yamaha Motor Company",
       "logos": {
-        "facebook": "https://graph.facebook.com/yamahamotorusa/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/875751770063908864/cj8_odoI_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FYamaha%20Motor%20Logo%20(full).svg&width=100"
       }
@@ -11138,6 +11171,20 @@
       "logos": {
         "facebook": "https://graph.facebook.com/bluely.eu/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1122061190476304384/wA_vNpjM_bigger.jpg"
+      }
+    },
+    "Q1604631": {
+      "description": "company",
+      "identities": {
+        "facebook": "NH.Hotels.ES",
+        "instagram": "nhhotelgroup",
+        "twitter": "nhhotels",
+        "website": "https://www.nh-hoteles.es/"
+      },
+      "label": "NH Hotel Group",
+      "logos": {
+        "facebook": "https://graph.facebook.com/NH.Hotels.ES/picture?type=large",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FNHsalamanca.jpg&width=100"
       }
     },
     "Q1606050": {
@@ -13126,6 +13173,10 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FHelzberg%20Diamonds%20logo.png&width=100"
       }
     },
+    "Q16997024": {
+      "description": "chain of bakeries",
+      "label": "Insomnia Cookies"
+    },
     "Q16997351": {
       "description": "charity in the UK",
       "identities": {
@@ -13245,6 +13296,13 @@
       "logos": {
         "facebook": "https://graph.facebook.com/nisalocally/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1283322005354356736/MxoWrzMN_bigger.jpg"
+      }
+    },
+    "Q1700015": {
+      "identities": {"website": "http://www.dorint.com/"},
+      "label": "Dorint",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo%20Dorint%202010.svg&width=100"
       }
     },
     "Q17005157": {
@@ -13705,7 +13763,6 @@
       },
       "label": "Froiz",
       "logos": {
-        "facebook": "https://graph.facebook.com/158051157541336/picture?type=large",
         "twitter": "https://abs.twimg.com/sticky/default_profile_images/default_profile_bigger.png",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FDistribuciones%20Froiz%20supermercados%20vectorial.svg&width=100"
       }
@@ -14936,6 +14993,14 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FBridgestone%20logo.svg&width=100"
       }
     },
+    "Q1795575": {
+      "identities": {
+        "website": "https://www.landkreis-cham.de/service-beratung/personennahverkehr/"
+      },
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FVLC%20Logo.svg&width=100"
+      }
+    },
     "Q17986044": {
       "description": "Building supply chain in the United Kingdom",
       "identities": {
@@ -15130,8 +15195,15 @@
     },
     "Q18142418": {
       "description": "South Korean coffeehouse chain",
-      "identities": {"website": "http://www.tomntoms.com/"},
-      "label": "Tom N Toms"
+      "identities": {
+        "facebook": "tomntomscoffee",
+        "instagram": "tomntoms_coffee",
+        "website": "http://www.tomntoms.com/"
+      },
+      "label": "Tom N Toms",
+      "logos": {
+        "facebook": "https://graph.facebook.com/tomntomscoffee/picture?type=large"
+      }
     },
     "Q1815030": {
       "description": "Spanish hotel company",
@@ -16742,6 +16814,15 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FMK2%20(8061225699).jpg&width=100"
       }
     },
+    "Q19816424": {
+      "identities": {
+        "facebook": "ReformhausBacher",
+        "website": "https://reformhaus-bacher.de/"
+      },
+      "logos": {
+        "facebook": "https://graph.facebook.com/ReformhausBacher/picture?type=large"
+      }
+    },
     "Q19841609": {
       "description": "American hat company",
       "identities": {
@@ -17548,8 +17629,14 @@
       "label": "Jammu & Kashmir Bank"
     },
     "Q2040440": {
-      "identities": {"website": "http://www.dhanbank.com/"},
-      "label": "Dhanlaxmi Bank"
+      "identities": {
+        "facebook": "dhanbank1927",
+        "website": "http://www.dhanbank.com/"
+      },
+      "label": "Dhanlaxmi Bank",
+      "logos": {
+        "facebook": "https://graph.facebook.com/dhanbank1927/picture?type=large"
+      }
     },
     "Q20410455": {
       "identities": {"website": "https://www.npcgas.com.tw/"},
@@ -18467,6 +18554,20 @@
       "identities": {"website": "http://www.tinq.nl/"},
       "label": "TinQ"
     },
+    "Q2137458": {
+      "identities": {"website": "https://www.rvv.de/"},
+      "label": "Regensburger Verkehrsverbund",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FRVV%20Logo.svg&width=100"
+      }
+    },
+    "Q2138145": {
+      "identities": {"website": "http://rvl-online.de/"},
+      "label": "Regio Verkehrsverbund Lörrach",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FRVL-Logo.svg&width=100"
+      }
+    },
     "Q2141800": {
       "description": "defunct British global travel company",
       "dissolutions": [{"date": "2025-09-23T00:00:00.000Z"}],
@@ -18501,7 +18602,8 @@
       "label": "Renaissance Hotels",
       "logos": {
         "facebook": "https://graph.facebook.com/RenaissanceHotels/picture?type=large",
-        "twitter": "https://pbs.twimg.com/profile_images/467374581779402752/DXUM3nq-_bigger.jpeg"
+        "twitter": "https://pbs.twimg.com/profile_images/467374581779402752/DXUM3nq-_bigger.jpeg",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FRenaissanceHotelsNew.svg&width=100"
       }
     },
     "Q2144204": {
@@ -19492,7 +19594,7 @@
       }
     },
     "Q23016666": {
-      "description": "Pizza chain based in Pasadena, California",
+      "description": "American pizza chain",
       "identities": {
         "facebook": "BlazePizza",
         "instagram": "blazepizza",
@@ -20148,7 +20250,10 @@
         "twitter": "https://pbs.twimg.com/profile_images/917394582605828097/DZo-ya9u_bigger.jpg"
       }
     },
-    "Q24041756": {"label": "Assam Gramin Vikash Bank"},
+    "Q24041756": {
+      "identities": {"website": "https://www.agvbank.co.in/"},
+      "label": "Assam Gramin Vikash Bank"
+    },
     "Q2408041": {
       "description": "chain of cosmetics stores",
       "identities": {
@@ -21181,6 +21286,25 @@
       "logos": {
         "twitter": "https://pbs.twimg.com/profile_images/1181830542926499840/TcIa_kIS_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FViP%20Logo%20links%20s.svg&width=100"
+      }
+    },
+    "Q2516229": {
+      "identities": {"website": "http://www.vlp-passau.de/"},
+      "label": "Verkehrsgemeinschaft Landkreis Passau"
+    },
+    "Q2516251": {"identities": {"website": "http://www.vgrottal-inn.de/"}},
+    "Q2516264": {
+      "identities": {"website": "http://www.vab-info.de/"},
+      "label": "Verkehrsgemeinschaft am Bayerischen Untermain",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo%20VAB.svg&width=100"
+      }
+    },
+    "Q2516463": {
+      "identities": {"website": "http://www.vgn.de/"},
+      "label": "Verkehrsverbund Großraum Nürnberg",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FVgn-logo.svg&width=100"
       }
     },
     "Q2516466": {
@@ -22409,7 +22533,7 @@
       "label": "Gina Laura",
       "logos": {
         "facebook": "https://graph.facebook.com/ginalaura.mode/picture?type=large",
-        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FGina%20Laura%20Logo.jpg&width=100"
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogo-ginalaura.svg&width=100"
       }
     },
     "Q270363": {
@@ -22998,6 +23122,13 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FClever%20fit%20logo.jpg&width=100"
       }
     },
+    "Q27926285": {
+      "identities": {"website": "https://www.westfalentarif.de/"},
+      "label": "Westfalentarif",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FWestfalentarif%20logo.svg&width=100"
+      }
+    },
     "Q27926559": {
       "description": "Austrian banking and financial services company",
       "identities": {
@@ -23506,6 +23637,10 @@
         "facebook": "https://graph.facebook.com/8wayTW/picture?type=large"
       }
     },
+    "Q2842699": {
+      "identities": {"website": "http://www.amenbank.com.tn/"},
+      "label": "Amen Bank"
+    },
     "Q2842729": {
       "identities": {"website": "http://www.ekono.cl/"},
       "label": "Ekono",
@@ -23969,10 +24104,7 @@
         "facebook": "logogetraenke",
         "website": "https://www.logo-getraenke.de/"
       },
-      "label": "Logo",
-      "logos": {
-        "facebook": "https://graph.facebook.com/logogetraenke/picture?type=large"
-      }
+      "label": "Logo"
     },
     "Q2878376": {
       "description": "American regional franchise chain of restaurants in the Southern and Midwestern US",
@@ -24477,8 +24609,14 @@
     },
     "Q2900674": {
       "description": "Israeli military bank",
-      "identities": {"website": "http://www.bankotsar.co.il/"},
-      "label": "Bank Otsar Ha-Hayal"
+      "identities": {
+        "facebook": "BankYahav",
+        "website": "http://www.bankotsar.co.il/"
+      },
+      "label": "Bank Otsar Ha-Hayal",
+      "logos": {
+        "facebook": "https://graph.facebook.com/BankYahav/picture?type=large"
+      }
     },
     "Q2900869": {
       "description": "Argentinian food manufacturer",
@@ -24663,7 +24801,8 @@
         "instagram": "bgca_clubs",
         "linkedin": "bgcaclubs",
         "twitter": "bgca_clubs",
-        "website": "http://www.bgca.org/"
+        "website": "http://www.bgca.org/",
+        "youtube": "UC0K6f6WSs_1ZeuDFRGhD2vA"
       },
       "label": "Boys & Girls Clubs of America",
       "logos": {
@@ -24908,6 +25047,14 @@
       "logos": {
         "facebook": "https://graph.facebook.com/caseys/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1311653243605442562/ac-SxK5p_bigger.jpg"
+      }
+    },
+    "Q294510": {
+      "description": "transport company",
+      "identities": {"website": "https://www.alsa.es/"},
+      "label": "ALSA (bus company)",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FALSA%202019%20logo.svg&width=100"
       }
     },
     "Q2945643": {
@@ -25476,6 +25623,20 @@
     "Q3007579": {
       "identities": {"website": "http://www.cupet.cu/"},
       "label": "Cupet"
+    },
+    "Q300763": {
+      "identities": {
+        "facebook": "avv.dialog",
+        "instagram": "aachenerverkehrsverbund",
+        "twitter": "avv_info",
+        "website": "http://www.avv.de",
+        "youtube": "UCsWpmukhSh6chsbzr7amQkw"
+      },
+      "label": "Aachener Verkehrsverbund",
+      "logos": {
+        "facebook": "https://graph.facebook.com/avv.dialog/picture?type=large",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FAachener%20Verkehrsverbund%20logo%202007.svg&width=100"
+      }
     },
     "Q30113": {
       "description": "brand of American cars",
@@ -26680,10 +26841,7 @@
         "instagram": "hippopotamus_steakhouse",
         "website": "http://www.hippopotamus.fr/"
       },
-      "label": "Hippopotamus",
-      "logos": {
-        "facebook": "https://graph.facebook.com/Hippopotamus/picture?type=large"
-      }
+      "label": "Hippopotamus"
     },
     "Q3139611": {
       "description": "Canadian retail store",
@@ -27716,7 +27874,7 @@
       }
     },
     "Q327634": {
-      "description": "global telecommunication company",
+      "description": "Company",
       "identities": {
         "facebook": "TMobile",
         "instagram": "tmobile",
@@ -29974,7 +30132,7 @@
       }
     },
     "Q36008": {
-      "description": "automobile brand of Daimler AG",
+      "description": "German automobile brand owned by Daimler AG",
       "identities": {
         "facebook": "MercedesBenz",
         "instagram": "mercedesbenz",
@@ -30806,6 +30964,21 @@
         "twitter": "https://pbs.twimg.com/profile_images/899272880927780864/u8RHJu0a_bigger.jpg"
       }
     },
+    "Q391080": {
+      "description": "German low cost hotel chain, founded in 2000 in Munich.",
+      "identities": {
+        "facebook": "motelone",
+        "instagram": "motel_one",
+        "twitter": "motelone",
+        "website": "http://www.motel-one.com/de/",
+        "youtube": "UCRydDi6j1xHl6D9SuusGg2g"
+      },
+      "label": "Motel One",
+      "logos": {
+        "facebook": "https://graph.facebook.com/motelone/picture?type=large",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FMotel%20One%20logo.svg&width=100"
+      }
+    },
     "Q39146": {
       "description": "commercial bank based in Beijing, China",
       "identities": {"website": "http://www.bankofbeijing.com.cn/"},
@@ -31472,6 +31645,7 @@
       },
       "label": "ALDI Süd",
       "logos": {
+        "facebook": "https://graph.facebook.com/ALDI.SUED/picture?type=large",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FAldi%20S%C3%BCd%202017%20logo.svg&width=100"
       }
     },
@@ -32624,8 +32798,11 @@
       }
     },
     "Q4476745": {
-      "identities": {"website": "http://www.ubrr.ru/"},
-      "label": "Ural Bank for Reconstruction and Development"
+      "identities": {"facebook": "ubrir", "website": "http://www.ubrr.ru/"},
+      "label": "Ural Bank for Reconstruction and Development",
+      "logos": {
+        "facebook": "https://graph.facebook.com/ubrir/picture?type=large"
+      }
     },
     "Q448199": {
       "description": "public transport association in Germany",
@@ -33979,7 +34156,6 @@
       },
       "label": "Ann Taylor",
       "logos": {
-        "facebook": "https://graph.facebook.com/AnnTaylor/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1267906870741733383/17gL-Rhp_bigger.jpg"
       }
     },
@@ -35221,7 +35397,6 @@
       },
       "label": "Shinhan Bank",
       "logos": {
-        "facebook": "https://graph.facebook.com/ShinhanBank/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/2140027098/389594_326277997426596_181888958532168_853020_1203917499_n_bigger.jpg"
       }
     },
@@ -35418,11 +35593,12 @@
       }
     },
     "Q48802134": {
+      "description": "Australian-based specialty tea brand with stores",
       "identities": {
         "facebook": "T2Tea",
         "instagram": "t2tea",
         "twitter": "t2teaofficial",
-        "website": "http://www.t2tea.com/en/au/Home1",
+        "website": "https://www.t2tea.com/",
         "youtube": "UCH8M4REapCPHBILrp1_GPEA"
       },
       "label": "T2",
@@ -35655,9 +35831,11 @@
       "identities": {
         "facebook": "benjaminmoorepaints",
         "instagram": "benjaminmoore",
+        "linkedin": "benjamin-moore-&-co-",
         "pinterest": "benjamin_moore",
         "twitter": "BenjaminMooreCA",
-        "website": "http://www.benjaminmoore.com/"
+        "website": "http://www.benjaminmoore.com/",
+        "youtube": "UCISS_OAlDoLVLvH2dXtMm9A"
       },
       "label": "Benjamin Moore & Co.",
       "logos": {
@@ -36772,6 +36950,7 @@
       }
     },
     "Q4983306": {
+      "description": "American business based in Kearney, Nebraska",
       "identities": {
         "facebook": "bucklestore",
         "instagram": "buckle",
@@ -36847,7 +37026,14 @@
     },
     "Q4986416": {
       "description": "UK based timber and building supply chain",
-      "identities": {"website": "https://www.buildbase.co.uk/"},
+      "identities": {
+        "facebook": "buildbase",
+        "instagram": "buildbaseuk",
+        "linkedin": "buildbaseuk",
+        "twitter": "BuildbaseUK",
+        "website": "https://www.buildbase.co.uk/",
+        "youtube": "UCoG__Y6-67_Tzzol22v8x_g"
+      },
       "label": "Buildbase"
     },
     "Q4992516": {
@@ -37042,7 +37228,6 @@
       },
       "label": "Buybuy BABY",
       "logos": {
-        "facebook": "https://graph.facebook.com/buybuyBABY/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1068591627411906561/Bjo9uS6n_bigger.jpg"
       }
     },
@@ -39693,7 +39878,7 @@
         "facebook": "toyota",
         "instagram": "toyota_turkiye",
         "twitter": "ToyotaMotorCorp",
-        "website": "http://www.toyota-global.com/",
+        "website": "https://global.toyota",
         "youtube": "UCu2Nnh9SBz5ax3NQFEnInyg"
       },
       "label": "Toyota",
@@ -40012,6 +40197,22 @@
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FSuper%208.svg&width=100"
       }
     },
+    "Q53685733": {
+      "description": "Electronics Repair Franchise",
+      "identities": {
+        "facebook": "ubreakifix",
+        "instagram": "ubreakifix",
+        "linkedin": "2518658",
+        "twitter": "ubreakifix",
+        "website": "https://www.ubreakifix.com",
+        "youtube": "UCTj-FPLZsOhymuay5wxUgRQ"
+      },
+      "label": "uBreakiFix",
+      "logos": {
+        "facebook": "https://graph.facebook.com/ubreakifix/picture?type=large",
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FUBreakiFix.jpg&width=100"
+      }
+    },
     "Q5369524": {
       "description": "All-suite hotel chain",
       "identities": {
@@ -40156,6 +40357,10 @@
         "facebook": "https://graph.facebook.com/UgEquityBank/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/917731783508156417/Z5ZhKg0A_bigger.jpg"
       }
+    },
+    "Q5385097": {
+      "identities": {"website": "http://www.erbertandgerberts.com/"},
+      "label": "Erbert & Gerbert's"
     },
     "Q538587": {
       "description": "French jeweler",
@@ -41029,8 +41234,15 @@
     },
     "Q5453964": {
       "description": "American banking institution",
-      "identities": {"website": "http://www.firstunitedbank.com"},
-      "label": "First United Bank"
+      "identities": {
+        "facebook": "firstunited1",
+        "twitter": "firstunitedbank",
+        "website": "http://www.firstunitedbank.com"
+      },
+      "label": "First United Bank",
+      "logos": {
+        "facebook": "https://graph.facebook.com/firstunited1/picture?type=large"
+      }
     },
     "Q5454064": {
       "identities": {
@@ -41557,9 +41769,7 @@
     },
     "Q5505779": {
       "description": "commuter rail along the Wasatch Front in Utah, Salt Lake, Davis, and Weber counties in Utah, United States",
-      "identities": {
-        "website": "http://www.rideuta.com/mc/?page=UTA-Home-FrontRunner"
-      },
+      "identities": {"website": "https://www.rideuta.com/Services/FrontRunner"},
       "label": "FrontRunner"
     },
     "Q5506152": {
@@ -42769,6 +42979,14 @@
         "twitter": "https://pbs.twimg.com/profile_images/1214912560765509633/IL33W6qA_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FTchibo%20Logo%20Kachel%20Ohne%20Schutzzone%202017.svg&width=100"
       }
+    },
+    "Q5642555": {
+      "description": "British regional brewery founded in Dorset",
+      "identities": {
+        "twitter": "BadgerPubs",
+        "website": "https://www.hall-woodhouse.co.uk/"
+      },
+      "label": "Hall & Woodhouse"
     },
     "Q5643014": {
       "description": "Spanish supermarket chain",
@@ -44775,7 +44993,6 @@
       },
       "label": "Wawa Inc.",
       "logos": {
-        "facebook": "https://graph.facebook.com/wawa/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1313861463052881921/plqNMsBv_bigger.jpg"
       }
     },
@@ -44939,7 +45156,6 @@
       },
       "label": "Preem",
       "logos": {
-        "facebook": "https://graph.facebook.com/preem/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1107948267223072769/3C53qxl0_bigger.png"
       }
     },
@@ -45887,6 +46103,14 @@
       "logos": {
         "facebook": "https://graph.facebook.com/JamesAvery/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/897452488588013571/YqRau9rn_bigger.jpg"
+      }
+    },
+    "Q6131944": {
+      "description": "American retail company",
+      "identities": {"twitter": "LLBean", "website": "https://www.llbean.com/"},
+      "label": "L.L.Bean",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FL.L.Bean%20wordmark.svg&width=100"
       }
     },
     "Q6133465": {
@@ -48157,10 +48381,7 @@
         "instagram": "topcharoen_official",
         "website": "https://www.topcharoen.co.th/"
       },
-      "label": "Top Charoen",
-      "logos": {
-        "facebook": "https://graph.facebook.com/TopCharoenOpticalOfficial/picture?type=large"
-      }
+      "label": "Top Charoen"
     },
     "Q62391741": {
       "description": "Taiwanese optician",
@@ -48818,7 +49039,6 @@
       },
       "label": "Rowlands Pharmacy",
       "logos": {
-        "facebook": "https://graph.facebook.com/RowlandsPharmacy/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/1224247146997743616/fvU6atFq_bigger.jpg"
       }
     },
@@ -50433,7 +50653,6 @@
       },
       "label": "Carstar",
       "logos": {
-        "facebook": "https://graph.facebook.com/CARSTAR/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/979434405067481089/tEXOnuTQ_bigger.jpg"
       }
     },
@@ -52815,6 +53034,15 @@
         "facebook": "https://graph.facebook.com/134116200015210/picture?type=large"
       }
     },
+    "Q66023886": {
+      "description": "Multinational bubble tea company",
+      "identities": {
+        "facebook": "Kung-Fu-Tea-281140911015",
+        "twitter": "kfteausa",
+        "website": "https://www.kungfutea.com/"
+      },
+      "label": "Kung Fu Tea"
+    },
     "Q66048": {
       "description": "German global banking and financial services company",
       "identities": {
@@ -54593,6 +54821,19 @@
       "identities": {"website": "http://www.njcb.com.cn"},
       "label": "Bank of Nanjing"
     },
+    "Q6851893": {
+      "description": "Restaurant chain",
+      "identities": {
+        "facebook": "miliossandwich",
+        "instagram": "miliossandwiches",
+        "twitter": "miliossandwich",
+        "website": "http://www.milios.com"
+      },
+      "label": "Milio's Sandwiches",
+      "logos": {
+        "facebook": "https://graph.facebook.com/miliossandwich/picture?type=large"
+      }
+    },
     "Q685485": {
       "description": "railway line",
       "identities": {
@@ -54885,6 +55126,19 @@
       "label": "Loyal Order of Moose",
       "logos": {
         "facebook": "https://graph.facebook.com/heardofmoose/picture?type=large"
+      }
+    },
+    "Q6908759": {
+      "description": "American fast casual restaurant chain",
+      "identities": {
+        "facebook": "MOOYAH",
+        "instagram": "mooyahburgers",
+        "twitter": "mooyahburgers",
+        "website": "https://www.mooyah.com/"
+      },
+      "label": "Mooyah",
+      "logos": {
+        "facebook": "https://graph.facebook.com/MOOYAH/picture?type=large"
       }
     },
     "Q691029": {
@@ -56283,8 +56537,14 @@
       }
     },
     "Q7122398": {
-      "identities": {"website": "http://www.pacificcoffee.com/"},
-      "label": "Pacific Coffee"
+      "identities": {
+        "facebook": "pacificcoffee",
+        "website": "http://www.pacificcoffee.com/"
+      },
+      "label": "Pacific Coffee",
+      "logos": {
+        "facebook": "https://graph.facebook.com/pacificcoffee/picture?type=large"
+      }
     },
     "Q7122637": {
       "identities": {
@@ -58055,7 +58315,6 @@
       },
       "label": "Richer Sounds",
       "logos": {
-        "facebook": "https://graph.facebook.com/richersounds/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/700606462754619392/JJVrQWoj_bigger.png",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FRichersounds%20currentlogo.jpg&width=100"
       }
@@ -58168,6 +58427,11 @@
         "twitter": "https://pbs.twimg.com/profile_images/833721032896712704/ifVHiE0R_bigger.jpg",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FLogormcf.png&width=100"
       }
+    },
+    "Q7356002": {
+      "description": "American pizza chain",
+      "identities": {"website": "http://rockyrococo.com"},
+      "label": "Rocky Rococo"
     },
     "Q7356709": {
       "description": "Economy hotel chain run by Choice Hotels",
@@ -59972,7 +60236,6 @@
       },
       "label": "Sport Clips",
       "logos": {
-        "facebook": "https://graph.facebook.com/SportClipsHaircuts/picture?type=large",
         "twitter": "https://pbs.twimg.com/profile_images/969348279170342913/n2vPf8mc_bigger.jpg"
       }
     },
@@ -64111,7 +64374,16 @@
         "twitter": "https://pbs.twimg.com/profile_images/1299387819526205440/Sj09hwOD_bigger.jpg"
       }
     },
-    "Q8077280": {"label": "ÆON BiG"},
+    "Q8077280": {
+      "identities": {
+        "facebook": "MYAEONBiG",
+        "website": "https://aeonbig.com.my/"
+      },
+      "label": "ÆON BiG",
+      "logos": {
+        "facebook": "https://graph.facebook.com/MYAEONBiG/picture?type=large"
+      }
+    },
     "Q807961": {
       "description": "bicycle sharing system",
       "identities": {
@@ -65234,7 +65506,6 @@
       },
       "label": "T & T Supermarket",
       "logos": {
-        "facebook": "https://graph.facebook.com/TTSupermarket/picture?type=large",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FT%26T%20Supermarket%20Logo.svg&width=100"
       }
     },
@@ -65392,7 +65663,7 @@
       }
     },
     "Q843887": {
-      "description": "apparel and accessories company",
+      "description": "French luxury goods company",
       "identities": {
         "facebook": "hermesusa",
         "instagram": "hermes",
@@ -66978,7 +67249,6 @@
       },
       "label": "Blume 2000",
       "logos": {
-        "facebook": "https://graph.facebook.com/Blume2000.de/picture?type=large",
         "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FBLUME%202000%20Unternehmenslogo.jpg&width=100"
       }
     },
@@ -67226,6 +67496,14 @@
       "label": "Citron Vert",
       "logos": {
         "facebook": "https://graph.facebook.com/citron.vert.instituts/picture?type=large"
+      }
+    },
+    "Q896041": {
+      "description": "public transport authority",
+      "identities": {"website": "http://www.vrsinfo.de/"},
+      "label": "Verkehrsverbund Rhein-Sieg",
+      "logos": {
+        "wikidata": "https://commons.wikimedia.org/w/index.php?title=Special%3ARedirect%2Ffile%2FVerkehrsverbund%20Rhein-Sieg.svg&width=100"
       }
     },
     "Q8963035": {
