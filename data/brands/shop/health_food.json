@@ -31,8 +31,9 @@
     },
     {
       "displayName": "Reformhaus Bacher",
-      "id": "reformhausbacher-f6f874",
-      "locationSet": {"include": ["de"]},
+      "locationSet": {
+        "include": ["de"]
+      },
       "matchTags": [
         "shop/convenience",
         "shop/supermarket"

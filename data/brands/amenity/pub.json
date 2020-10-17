@@ -34,14 +34,14 @@
       }
     },
     {
-      "displayName": "Hall & Woodhouse",
-      "id": "hallandwoodhouse-eaed91",
+      "displayName": "Fuller's",
       "locationSet": {"include": ["gb"]},
+      "note": "No name for Fuller's brand as each pub is named differently.",
       "tags": {
         "amenity": "pub",
-        "brand": "Hall & Woodhouse",
-        "brand:wikidata": "Q5642555",
-        "brand:wikipedia": "en:Hall & Woodhouse"
+        "brand": "Fuller's",
+        "brand:wikidata": "Q5253950",
+        "brand:wikipedia": "en:Fuller's Brewery"
       }
     },
     {
@@ -103,12 +103,22 @@
         "jd wetherspoons",
         "wetherspoons"
       ],
-      "note": "Company is known as 'JD Wetherspoon', but current branding seems to be just 'Wetherspoon' as of Sept 2020. No social media is available for this brand.",
+      "note": "Company is known as 'JD Wetherspoon', but current branding seems to be just 'Wetherspoon' as of Sept 2020. No social media is available for this brand, no name is set as each pub is named differently.",
       "tags": {
         "amenity": "pub",
         "brand": "Wetherspoon",
         "brand:wikidata": "Q6109362",
         "brand:wikipedia": "en:Wetherspoons"
+      }
+    },
+    {
+      "displayName": "Hall & Woodhouse",
+      "locationSet": {"include": ["gb"]},
+      "tags": {
+        "amenity": "pub",
+        "brand": "Hall & Woodhouse",
+        "brand:wikidata": "Q5642555",
+        "brand:wikipedia": "en:Hall & Woodhouse"
       }
     },
     {
